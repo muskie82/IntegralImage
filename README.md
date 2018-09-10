@@ -1,4 +1,4 @@
-# IntegralImage
+# Integral Image
 Exercise for integral image.
 * Implementation 1: Naive method  
 Time complexity is O(n^4).  
