@@ -1,5 +1,5 @@
 # Integral Image
-Exercise for integral image.
+Exercise for integral image implementation.
 * Case 1: Naive method  
 Time complexity is O(n^4).  
 * Case 2: Use the value of previous pixels  
